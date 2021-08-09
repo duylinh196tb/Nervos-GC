@@ -1,4 +1,4 @@
-# Gitcoin: 1) Create A Godwoken Account On The EVM Layer 2 Testnet
+# Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
 
 1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
 
