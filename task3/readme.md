@@ -1,20 +1,24 @@
-# Gitcoin: 2) Deploy A Simple Ethereum Smart Contract On Polyjuice
+# Gitcoin: 3) Issue A Smart Contract Call To The Deployed Smart Contract
 
-1. A screenshot of the console output immediately after you have successfully deployed a smart contract.
+1. A screenshot of the console output immediately after you have successfully issued a smart contract call.
 
 ![alt text](1.png)
 
 2. The transaction hash from the console output (in text format).
-   <br/>
-   <b>0x52c3b930d3645a57f2ef82079a29512fed66f57968ab7d1d17526eacfdbe1923</b>
+
+   ```
+   0x52c3b930d3645a57f2ef82079a29512fed66f57968ab7d1d17526eacfdbe1923
+   ```
 
 3. The contract address that you called (in text format).
-   <br/>
-   <b>0x6B33330448bF1D39f800fDD5E6c317c3bD93f1c7</b>
+
+   ```
+   0x6B33330448bF1D39f800fDD5E6c317c3bD93f1c7
+   ```
 
 4. The ABI for contract you made a call on (in text format).
-   <br/>
-   <b>
+
+```
    [
    {
    "inputs": [],
@@ -48,4 +52,4 @@
    "type": "function"
    }
    ]
-   </b>
+```
