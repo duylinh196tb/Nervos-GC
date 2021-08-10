@@ -16,7 +16,7 @@
    0x6B33330448bF1D39f800fDD5E6c317c3bD93f1c7
    ```
 
-4. The ABI for contract you made a call on (in text format).
+4. The ABI for contract you made a call on (in text format)
 
 ```
    [
